@@ -49,4 +49,8 @@ public class UserController {
         //json users.html
         return  "users";
     }
+
+    public void test(){
+        System.out.print("哈哈哈哈");
+    }
 }
